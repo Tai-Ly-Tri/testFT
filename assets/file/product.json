@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone",
+      "desc": "apple 12th",
+      "price": 999,
+      "color": "#fff",
+      "image": "https://thegioiso.vn/wp-content/uploads/2021/05/iphone-12-purple-select-2021-1.png"
+    },
+    {
+      "id": 2,
+      "name": "SamSung",
+      "desc": "S20 Ultra",
+      "price": 600,
+      "color": "#fff",
+      "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public//picture/product/product17987/product_17987_5.png"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel",
+      "desc": "Pixel 5th",
+      "price": 550,
+      "color": "#fff",
+      "image": "https://product.hstatic.net/1000370129/product/pixel_5_black_digiphone_4732c9dd4f664d8b892b1a2e1463d632_master_0b913738e624442e94c5aac5fabf296c_master.png"
+    }
+    ,{
+      "id": 4,
+      "name": "Oppo",
+      "desc": "Reno 6",
+      "price": 400,
+      "color": "#fff",
+      "image": "https://mobile2go.com.my/images/thumbs/0015754_oppo-reno5-pro-reno-5-pro-5g-12gb-ram-256gb-rom-original-oppo-malaysia_511.png"
+    }
+  ]
+}
